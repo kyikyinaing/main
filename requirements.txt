@@ -1,8 +1,0 @@
-streamlit
-torch
-torchvision
-torchaudio
-numpy
-pillow
-matplotlib
---extra-index-url https://download.pytorch.org/whl/cpu

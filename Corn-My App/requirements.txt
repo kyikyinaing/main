@@ -5,4 +5,3 @@ torchaudio
 matplotlib
 numpy
 pillow
---extra-index-url https://download.pytorch.org/whl/cpu
